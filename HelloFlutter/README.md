@@ -1,16 +1,33 @@
 # HelloFlutter
 
-A new Flutter project.
+My First Flutter App
 
-## Getting Started
+## What I have learned by building this App
 
-This project is a starting point for a Flutter application.
+- The ```main()``` is the starting point for all our Flutter Apps.
+- ```MaterialApp()``` confrims Material Design Style Created by Google 
+```
+home:
+The widget for the default route of the app
+```
+- ```Scaffold()``` It will expand or occupy in the whole device screen. It will occupy the available space. Scaffold will provide a framework to implement the basic material design layout of the application. Also added custom title and background Color.
+ ```
+ body: 
+ The primary content of the scaffold.
+ ```
+  ### Widgets
+  
+- ```Center``` A widget that centers its child within itself.
+- ```Padding``` A widget that insets its child by the given padding.
+- ```Column``` A widget that displays its children in a vertical array.
+- ```Image``` A widget that displays an image and learned adding a image to the app from assets and also how to use a ```NetworkImage```.
 
-A few resources to get you started if this is your first Flutter project:
+## Display Mode 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](images/Screenshot.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Like to Connect
+
+#### [Instagram](https://www.instagram.com/irangareddy/)
+#### [Twitter](https://twitter.com/irangareddy)
+#### [LinkedIn](https://www.linkedin.com/feed/)
