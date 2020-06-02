@@ -23,11 +23,11 @@ The widget for the default route of the app
 - ```Image``` A widget that displays an image and learned adding a image to the app from assets and also how to use a ```NetworkImage```.
 
 ## Display Mode 
-
-![](images/Screenshot.png)
+<p align="center">
+<img src="images/HelloFlutter.png" width="314">
+</p>
 
 ## Like to Connect
 
-#### [Instagram](https://www.instagram.com/irangareddy/)
-#### [Twitter](https://twitter.com/irangareddy)
-#### [LinkedIn](https://www.linkedin.com/feed/)
+[Instagram](https://www.instagram.com/irangareddy/) | [Twitter](https://twitter.com/irangareddy) | [LinkedIn](https://www.linkedin.com/feed/) |
+------------ | ------------- | ---------------|
