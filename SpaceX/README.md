@@ -6,7 +6,11 @@ SpaceX App tells about Falcon9 Overview
 
 ```
 I built this app as a challange from previous App HelloFlutter.
+
 ```
+<p align="center">
+<img src="images/SpaceXLogoFinal.png" width="250">
+</p>
 
 ## Display Mode 
 <p align="center">
