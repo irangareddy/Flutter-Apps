@@ -9,22 +9,45 @@ class MyProfile extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-    home: Scaffold(
-      body: SafeArea(
-              child: Center(
-                child: Container(
-                  margin: EdgeInsets.all(20),
-                  padding: EdgeInsets.all(10.0),
-          color: Colors.green,
-          child: Text('Ranga Reddy',style: TextStyle(
-                      fontWeight: FontWeight.bold,
-                                  fontSize: 34.0,
-                                  color: Colors.white,
-                                ),),
-        ),
+      home: Scaffold(
+        body: SafeArea(
+          child: Row(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: <Widget>[
+              Container(
+                color: Colors.pinkAccent,
+                width: 100,
               ),
+              // SizedBox(
+              //   width: 8,
+              // ),
+              Container(
+                width: 100,
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    Container(
+                      color: Colors.purpleAccent,
+                      width: 100,
+                      height: 100,
+                    ),
+                    Container(
+                      color: Colors.blueAccent,
+                      width: 100,
+                      height: 100,
+                    ),
+                  ],
+                ),
+              ),
+              Container(
+                color: Colors.greenAccent,
+                width: 100,
+              ),
+            ],
+          ),
+        ),
       ),
-    ),
-  );
+    );
   }
 }
