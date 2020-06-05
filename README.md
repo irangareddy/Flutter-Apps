@@ -6,11 +6,8 @@ Open Source Flutter Apps
 
 - **[Hello Flutter](https://github.com/irangareddy/FlutterExampleApps/tree/master/HelloFlutter)**
 - **[SpaceX](https://github.com/irangareddy/FlutterExampleApps/tree/master/SpaceX)**
-
-<!-- ## Display Mode 
-<p align="center">
-<img src="images/HelloFlutter.png" width="314">
-</p> -->
+- **[Instagram Profile](https://github.com/irangareddy/FlutterExampleApps/tree/master/MyProfile)**
+- **[Business Card](https://github.com/irangareddy/FlutterExampleApps/tree/master/BusinessCard)**
 
 ## Like to Connect
 

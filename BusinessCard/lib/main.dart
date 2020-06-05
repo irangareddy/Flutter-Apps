@@ -10,7 +10,7 @@ class BusinessCard extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.white,
+        backgroundColor: Color(0xFF212121),
         body: SafeArea(
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
@@ -19,10 +19,10 @@ class BusinessCard extends StatelessWidget {
               Card(
                 shape: RoundedRectangleBorder(
     borderRadius: BorderRadius.circular(16.0),),
-                elevation: 20.0,
-                color: Colors.indigo.shade500,
+                elevation: 10.0,
+                color: Color(0xFF7C4DFF),
                 margin: EdgeInsets.all(20.0),
-                shadowColor: Colors.black.withOpacity(0.5),
+                shadowColor: Colors.black,
                 
                           child: Padding(
                             padding: const EdgeInsets.symmetric(vertical: 16.0,horizontal: 16.0),
@@ -54,9 +54,10 @@ class BusinessCard extends StatelessWidget {
                       'Mobile App Developer',
                       style: TextStyle(
                         fontFamily: 'AppleLiSung',
+                        letterSpacing: 1.3,
                         color: Colors.white,
-                        fontSize: 18.0,
-                        fontWeight: FontWeight.w500,
+                        fontSize: 20.0,
+                        fontWeight: FontWeight.w700,
                       ),
                     ),
                           ],
@@ -83,7 +84,7 @@ class BusinessCard extends StatelessWidget {
                     ),
                     Card (
                       margin: EdgeInsets.symmetric(vertical: 8.0,),
-                      color: Colors.indigo.shade700,
+                      color: Color(0xFF512DA8),
 
                       child: ListTile(
                         leading: Icon(
@@ -102,7 +103,7 @@ class BusinessCard extends StatelessWidget {
                     ),
                     Card (
                       margin: EdgeInsets.symmetric(vertical: 8.0),
-                      color: Colors.indigo.shade700,
+                      color: Color(0xFF512DA8),
                       child: ListTile(
                         leading: Icon(
                                 Icons.local_post_office,
@@ -118,7 +119,6 @@ class BusinessCard extends StatelessWidget {
                             ),
                       ),
                     ),
-                    
                   ],
                 ),
                           ),
