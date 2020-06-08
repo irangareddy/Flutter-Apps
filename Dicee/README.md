@@ -2,7 +2,7 @@
 
 A Dicee Game where two players can play and after the game tells about Winner of the Game
 
-## Display Mode 
+## App Preview
 <p align="center">
 <img src="images/DiceeApp.gif" width="314">
 </p>
