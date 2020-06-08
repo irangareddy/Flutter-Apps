@@ -8,7 +8,7 @@ Open Source Flutter Apps
 - **[SpaceX](https://github.com/irangareddy/FlutterExampleApps/tree/master/SpaceX)**
 - **[Instagram Profile](https://github.com/irangareddy/FlutterExampleApps/tree/master/MyProfile)**
 - **[Business Card](https://github.com/irangareddy/FlutterExampleApps/tree/master/BusinessCard)**
-- - **[Dicee](https://github.com/irangareddy/FlutterExampleApps/tree/master/Dicee)**
+- **[Dicee](https://github.com/irangareddy/FlutterExampleApps/tree/master/Dicee)**
 
 
 ## App Previews
