@@ -12,7 +12,7 @@ I built this app as a challange from previous App HelloFlutter.
 <img src="images/SpaceXLogoFinal.png" width="250">
 </p>
 
-## Display Mode 
+## App Preview
 <p align="center">
 <img src="images/SpaceXApp.png" width="314">
 </p>

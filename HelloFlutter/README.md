@@ -22,7 +22,7 @@ The widget for the default route of the app
 - ```Column``` A widget that displays its children in a vertical array.
 - ```Image``` A widget that displays an image and learned adding a image to the app from assets and also how to use a ```NetworkImage```.
 
-## Display Mode 
+## App Preview
 <p align="center">
 <img src="images/HelloFlutter.png" width="314">
 </p>

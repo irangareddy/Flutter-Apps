@@ -2,7 +2,7 @@
 
 ```Business Card App``` based on Cards in Flutter
 
-## Display Mode 
+## App Preview
 <p align="center">
 <img src="images/BusinessCardApp.png" width="314">
 </p>
