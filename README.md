@@ -1,4 +1,4 @@
-# Flutter Example Apps
+# Flutter Apps
 <p align="center">
 <img src="AppPreviews/FlutterAppsBanner.png">
 </p>
