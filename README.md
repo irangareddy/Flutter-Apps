@@ -1,5 +1,7 @@
 # Flutter Example Apps
-
+<p align="center">
+<img src="AppPreviews/FlutterAppsBanner.png">
+</p>
 Open Source Flutter Apps
 
 ## Apps
