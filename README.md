@@ -13,14 +13,17 @@ Open Source Flutter Apps
 - **[Dicee](https://github.com/irangareddy/FlutterExampleApps/tree/master/Dicee)**
 - **[Xylophone](https://github.com/irangareddy/FlutterExampleApps/tree/master/Xylophone)**
 - **[Quiz Game](https://github.com/irangareddy/FlutterExampleApps/tree/master/Quiz)**
+- **[WWDC20](https://github.com/irangareddy/FlutterExampleApps/tree/master/WWDC20)**
 
 
 ## App Previews
 
 <p align="left">
-<img src="AppPreviews/DiceeApp.gif" width="250">
-<img src="AppPreviews/XylophoneApp.gif" width="250">
-<img src="AppPreviews/QuizApp.gif" width="250">
+<img src="AppPreviews/DiceeApp.gif" width="256">
+<img src="AppPreviews/XylophoneApp.gif" width="256">
+<img src="AppPreviews/QuizApp.gif" width="256">
+</p>
+<img src="AppPreviews/WWDC20App.png" width="256">
 </p>
 
 
