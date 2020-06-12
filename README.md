@@ -19,11 +19,11 @@ Open Source Flutter Apps
 ## App Previews
 
 <p align="left">
-<img src="AppPreviews/DiceeApp.gif" width="256">
+<img src="AppPreviews/DiceeApp.gif" width="250">
 <img src="AppPreviews/XylophoneApp.gif" width="256">
-<img src="AppPreviews/QuizApp.gif" width="256">
+<img src="AppPreviews/QuizApp.gif" width="250">
 </p>
-<img src="AppPreviews/WWDC20App.png" width="256">
+<img src="AppPreviews/WWDC20App.png" width="250">
 </p>
 
 

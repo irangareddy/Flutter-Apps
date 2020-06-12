@@ -3,7 +3,7 @@
 Built Home page for Apple Developer Program WWDC20
 ## App Preview
 <p align="center">
-<img src="images/WWDC20App.png">
+<img src="images/WWDC20App.png" width="314">
 </p>
 
 ## Like to Connect
