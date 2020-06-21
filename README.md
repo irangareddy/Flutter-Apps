@@ -15,7 +15,7 @@ Open Source Flutter Apps
 - **[Quiz Game](https://github.com/irangareddy/FlutterExampleApps/tree/master/Quiz)**
 - **[WWDC20](https://github.com/irangareddy/FlutterExampleApps/tree/master/WWDC20)**
 - **[Destini](https://github.com/irangareddy/FlutterExampleApps/tree/master/Destini)**
-- **[BMI Calculator](https://github.com/irangareddy/FlutterExampleApps/tree/master/BMI_Calculator>)**
+- **[BMI Calculator](https://github.com/irangareddy/FlutterExampleApps/tree/master/BMI_Calculator)**
 
 
 ## App Previews
