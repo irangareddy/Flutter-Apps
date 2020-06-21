@@ -15,5 +15,5 @@
 
 ## Like to Connect
 
-[Instagram](https://www.instagram.com/irangareddy/) | [Twitter](https://twitter.com/irangareddy) | [LinkedIn](https://www.linkedin.com/feed/) |
+[Instagram](https://www.instagram.com/irangareddy/) | [Twitter](https://twitter.com/irangareddy) | [LinkedIn](https://www.linkedin.com/in/irangrareddy) |
 ------------ | ------------- | ---------------|
